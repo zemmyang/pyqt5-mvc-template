@@ -1,2 +1,5 @@
-# pyqt5-mvc-template
-MVC template for PyQt5
+# PyQt5 MVC template
+
+Because I can.
+
+Also I hate .ui files.
